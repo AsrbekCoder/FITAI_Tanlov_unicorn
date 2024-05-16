@@ -1,0 +1,6 @@
+.bg-shadowed {
+  box-shadow: rgba(0, 188, 172, 0.087) 0px 10px 40px;
+}
+.special-label {
+  display: none;
+}

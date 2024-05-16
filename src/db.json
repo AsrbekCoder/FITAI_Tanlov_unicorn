@@ -1,0 +1,864 @@
+[
+  {
+    "name": "Foundation",
+    "slogan": "foundation",
+    "type": "code",
+    "delay": "2m",
+    "discreption": "2 oy davomida siz dasturlash sohasida fundamental bilimlarga ega bo’lib, mutaxassislik kurslarida o’qish imkoniyatiga ega bo’lasiz",
+    "modul": [
+      {
+        "modulName": "1-Modul",
+        "modulType": [
+          "Axborot texnologiyalari. Kompyuterning texnik va dasturiy ta’minoti",
+          "Ma'lumot va axborot tushunchasi",
+          "Kompyuterning texnik ta'minoti",
+          "Kompyuterning dasturiy ta'minoti",
+          "Dasturlash tillari haqida",
+          "Pythonda 1-dasturni yozish",
+          "Axborotning o'lchov birliklari",
+          "Sanoq sistemasi haqida",
+          "If else",
+          "Kalkulatorda ba'zi sanoq sistemalari bilan ishlash",
+          "Working with Functions"
+        ]
+      },
+      {
+        "modulName": "2-Modul",
+        "modulType": [
+          "Takrorlanuvchi algoritmlar",
+          "Takrorlash operatorlari (2-qism)",
+          "Funksiyalar bilan ishlash. User defined functions",
+          "Satrlar bilan ishlash (1-qism)",
+          "length(), size(), max_size(), capacity(), empty(), resize() funksiyalari",
+          "Massivlar bilan ishlash (1-qism)",
+          "Massivni e'lon qilish",
+          "Massiv Amaliy mashqlar-1",
+          "Dinamik massivlar bilan ishlash",
+          "Tartiblash algoritmlari",
+          "Qidirish algoritmlari"
+        ]
+      },
+
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Road Map For Future",
+          "Xohlovchilarni Imtihon asosida <b>Frontend</b> guruhiga qabul qilish"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kompyuter Savodxonligi",
+    "slogan": "komputer_savodxonligi",
+    "type": "comp_it",
+    "delay": "3m",
+    "discreption": "3 oy ichida siz kompyuterni yaralish tarixidan boshlab eng yuqori darajasigacha o'rganasiz. Kurs davomida kompyuter qay tariqa ishlashi va operatsion tizimlarning o'rnatilishi, ishlash prinspi va boshqa dasrturiy qismlari o'rgatilinadi.",
+    "modul": [
+      {
+        "modulName": "1-MODUL",
+        "modulType": [
+          "Kampyuterlar yaratilish tarixi",
+          "Shaxsiy kampyuter nima va uning  asosiy qurilmalari",
+          "Shaxsiy kampyuterni yordamchi qurilmalari  (periferik qurilmalar)",
+          "Asosiy va yordamchi qurilmalar turlari",
+          "Manitor  nima ?",
+          "Sestema blok nima?",
+          "Ona plata nima?",
+          "Mikroprosesor va uning turlari",
+          "Asosiy xotira turlari .RAM ,hdd,sdd.",
+          "Vedio karta nima?",
+          "Ona platadagi portlar",
+          "Blok petanya haqida",
+          "Bios xotira nima?",
+          "Deskavod haqida",
+          "Kabel turlari (hdmi,vga)",
+          "32 va 64 (86x) razryad nima farqlari.",
+          "Sestima blok (kes)."
+        ]
+      },
+      {
+        "modulName": "2-MODUL",
+        "modulType": [
+          "Operatsion tizim nima va ularning turlari",
+          "os fleshkaga yozish (rufus ,ultra iso,win setup from usb)",
+          "os larni o’rnatish (win xp,7,8,10) (ish stolida qolib ketgan file larni olish)",
+          "drayverlar nima va ularni o’rnatish usullari",
+          "antivirus dasturlari (nod32, avast,kasperske)",
+          "office dastur turlari va ularni o’rnatish va o’chirish",
+          "yordamchi dasturlarni topish,yuklash,o’rnatish va o’chirish",
+          "beloff ,chip windows nima(driverlar)?",
+          "Ms word darslari",
+          "Ms excel darslari",
+          "Ms power point darslari",
+          "Aktivatsiya nima va aktivatsiya qilish usullari",
+          "O’chib ketgan malumotlarni qayta tiklash",
+          "Internetdan yuklamalar yuklash(internet haqida).",
+          "Brawzerlar haqida",
+          "Desk yozish (ashampo, ultra iso)",
+          "Virtual box  nima ?",
+          "Taem viewer,any desk dasturi haqida(masofadan ishlashni taminlash)",
+          "Windows kodini buzish.(lazisoft)"
+        ]
+      },
+
+      {
+        "modulName": "3-MODUL",
+        "modulType": [
+          "Internet nima ,Server nima ?",
+          "Tarmoq nima?",
+          "Tarmoq qurilmalari qisqacha.(lan tarmoq qurish)",
+          "Modem, wi fi router,chuntak wi fi , hub ,switch.",
+          "Kabellar va ularning turlari .ularni ulash rj45 kannektor",
+          "Tarmoq sozlamalari",
+          "Kampyuterlarni o’zaro simli va simsiz bog’lash",
+          "Cmd kodlari qisqacha va tezkor klavishlar.",
+          "Foydali kanallar botlar (dasturlar topish uchun)",
+          "Dasturlash tillari nima?",
+          "Internet saytlar (grafika buyicha).",
+          "Bepul darslar saytlar  ruyxati."
+        ]
+      },
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": ["Imtihon", "Taqdirilash"]
+      }
+    ]
+  },
+  {
+    "name": "Frontend",
+    "slogan": "frontend",
+    "type": "code",
+    "delay": "6m",
+    "discreption": "6 oy ichida frontend dasturchiga aylaning. Kurs davomida 10 dan ortiq proyektlar bilan tajriba ortirasiz. Kurs ohirida real proyekt beriladi",
+    "modul": [
+      {
+        "modulName": "HTML",
+        "modulType": [
+          "Introduction",
+          "Document Structure",
+          "HTML Tags va Elements",
+          "Basics",
+          "Semantic HTML",
+          "Basic Web Page yaratish"
+        ]
+      },
+      {
+        "modulName": "CSS",
+        "modulType": [
+          "Introduction to CSS",
+          "Syntax and Selectors",
+          "Layout and Positioning",
+          "Box Model",
+          "Typography and Colors",
+          "Responsive Design and Media Queries",
+          "Transitions and Animations",
+          "Portfolio Loyiha",
+          "Real project"
+        ]
+      },
+
+      {
+        "modulName": "Bootstrap",
+        "modulType": [
+          "Introduction to Bootstrap",
+          "Setting Up Bootstrap",
+          "Responsive Layout with the Grid System",
+          " Styling with Bootstrap CSS Classes",
+          "Bootstrap Components",
+          "Advanced Bootstrap Features",
+          "Advanced Bootstrap Project"
+        ]
+      },
+      {
+        "modulName": "JavaScript",
+        "modulType": [
+          "Introduction to JavaScript",
+          "JavaScript Basics",
+          "Fundamentals",
+          "Variables",
+          "Data types",
+          "Interaction (alert, prompt, confirm)",
+          "Operators",
+          "Comparisons",
+          "If else / ? :",
+          "Logical operators",
+          "Loops (while and for)",
+          "Switch / case",
+          " Working with Functions",
+          "Arrays and Objects",
+          "DOM manipulation",
+          "Handling Events",
+          "Error Handling and Debugging",
+          "AJAX and Fetch",
+          "OOP",
+          "Real Loyiha"
+        ]
+      },
+      {
+        "modulName": "Git, Github",
+        "modulType": [
+          "Introduction to Version Control",
+          "Installing and Configuring Git",
+          "Git Basics",
+          "Remote Repositories and GitHub",
+          "Collaborating with Others",
+          "Branching Strategies and Workflows",
+          "Git Best Practices",
+          "GitHub Workflow Automation and Integrations"
+        ]
+      },
+      {
+        "modulName": "Sass/SCSS",
+        "modulType": [
+          "Introduction to Sass/SCSS",
+          "Nesting and Selectors",
+          "Setting Up Sass/SCSS",
+          "Mixins and Functions",
+          "Control Directives",
+          "Importing and Partials",
+          "Inheritance and Placeholder Selectors",
+          "Operators and Calculations",
+          "Real project"
+        ]
+      },
+      {
+        "modulName": "React Js",
+        "modulType": [
+          "Introduction to React",
+          "Package Manager",
+          "React Components",
+          "JSX Syntax",
+          "State and Props",
+          "Handling Events",
+          "Lifecycle",
+          "Working with Lists and Keys",
+          "React Router",
+          "Redux / Redux Toolkit",
+          "State Management with Redux (Optional)",
+          "Real Project"
+        ]
+      },
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Real loyiha berish",
+          "Real loyiha g'oliblarini rag'bantlantirsh",
+          "Ishga kirish ko'magi",
+          "Road Map For Future",
+          "Xohlovchilarni Imtihon asosida <b>Frontend(Advanced)</b> guruhiga qabul qilish"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Backend (Node Js)",
+    "slogan": "backend-nodejs",
+    "type": "code",
+    "delay": "3m",
+    "discreption": "Zamonaviy texnologiyalar va eng yaxshi amaliyotlardan foydalangan holda REST API va mikroservislarni ishlab chiqish.",
+    "modul": [
+      {
+        "modulName": "JavaScript",
+        "modulType": [
+          "Introduction to JavaScript",
+          "JavaScript Basics",
+          "Fundamentals",
+          "Variables",
+          "Data types",
+          "Interaction (alert, prompt, confirm)",
+          "Operators",
+          "Comparisons",
+          "If else / ? :",
+          "Logical operators",
+          "Loops (while and for)",
+          "Switch / case",
+          "Working with Functions",
+          "Arrays and Objects",
+          "Handling Events",
+          "Error Handling and Debugging",
+          "AJAX and Fetch",
+          "OOP"
+        ]
+      },
+      {
+        "modulName": "Node Js",
+        "modulType": [
+          "Introduction to Node.js",
+          "Node.js Fundamentals",
+          "Using npm (Node Package Manager) to manage dependencies.",
+          "Working with modules and require statements.",
+          "Defining routes to handle HTTP methods and URL patterns",
+          "Building a RESTful API"
+        ]
+      },
+
+      {
+        "modulName": "ExpressJs",
+        "modulType": [
+          "Setting Up Express.js",
+          "Routing",
+          "Middleware",
+          "Request and Response",
+          "Bootstrap Components",
+          "Templating Engines",
+          "Error Handling",
+          "Middleware Libraries",
+          "File Uploads",
+          "Testing and Debugging",
+          "Working with Databases"
+        ]
+      },
+      {
+        "modulName": "Databases",
+        "modulType": [
+          "Introduction Databases",
+          "Implementing CRUD operations using Express.js and the chosen database.",
+          "MongoDb",
+          "Comparing MongoDB with traditional SQL databases.",
+          "Aggregation Framework",
+          "Connecting MongoDB with Node.js using the official MongoDB driver or an ORM like Mongoose.",
+          "Creating, reading, updating, and deleting documents",
+          "Deployment and Scalability",
+          "Real Loyiha"
+        ]
+      },
+      {
+        "modulName": "Git, Github",
+        "modulType": [
+          "Introduction to Version Control",
+          "Installing and Configuring Git",
+          "Git Basics",
+          "Remote Repositories and GitHub",
+          "Collaborating with Others",
+          "Branching Strategies and Workflows",
+          "Git Best Practices",
+          "GitHub Workflow Automation and Integrations"
+        ]
+      },
+
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Real loyiha berish",
+          "Real loyiha g'oliblarini rag'bantlantirsh",
+          "Ishga kirish ko'magi",
+          "Road Map For Future"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Python (Django)",
+    "slogan": "python-django",
+    "type": "code",
+    "delay": "6m",
+    "discreption": "Python dasturlash tili va Django freymvorki yordamida web ilovalarning  Backend qismini ishlap chiqshga qaratilgan kurs",
+    "modul": [
+      {
+        "modulName": "Python",
+        "modulType": [
+          "Introduction to Python programming language",
+          "Document Structure",
+
+          "Variables, Comments, Data Types",
+          "Numbers, Casting, Strings, Booleans",
+          "Operators",
+          "Lists, Tuples, Sets",
+          "Dictionaries",
+          "If...Else",
+          "For Loops, While Loops",
+          "Functions",
+          "Lambda",
+          "Arrays",
+          "Classes/Objects",
+          "Inheritance, Iterators, Polymorphism",
+          "Scope, Modules, Dates, Math",
+
+          "JSON",
+          "RegEx",
+          "PIP",
+          "Try...Except",
+          "Best Practices"
+        ]
+      },
+
+      {
+        "modulName": "Django",
+        "modulType": [
+          "Introduction to web frameworks and Django",
+          "Creating a basic Django project and application",
+          "Exploring Django's built-in admin interface",
+          "Customizing the Django admin site",
+          "User authentication and authorization",
+          "User registration and login functionality",
+          "Implementing password reset and change functionality",
+          "Understanding Django forms and their role in handling user input",
+          "Creating custom forms with Django's form classes",
+          "Form validation and error handling",
+          "File uploads and handling form data",
+          "Cross-site Scripting (XSS) protection and security considerations",
+          "RESTful API development with Django's views and serializers",
+          "Handling HTTP requests and responses",
+          "Database integration with SQLite or PostgreSQL ",
+          "User authentication and session management",
+          "RESTful API development",
+          "Advanced database concepts and ORM (Object-Relational Mapping)",
+          "Handling file uploads and data storage",
+          "Caching and performance optimization techniques",
+          "Deploying applications to production servers          ",
+          "Consuming RESTful APIs with Python",
+          "Continuous integration and deployment (CI/CD) pipelines",
+          "Introduction to containerization (Docker) and cloud platforms (e.g., AWS, Azure)"
+        ]
+      },
+      {
+        "modulName": "Docker",
+        "modulType": [
+          "Start with the basics of containerization and why Docker is popular in the software industry.",
+          "Learn about Docker architecture, including images, containers, and the Docker daemon.",
+          "Understand how to install Docker on your local machine and set up a Docker environment.",
+          "Explore Docker commands for managing containers, images, networks, and volumes.",
+          "Practice building Docker images using Dockerfiles and running containers based on those images.",
+          "Dive into Docker networking and storage options.",
+          "Gain knowledge of container orchestration tools like Docker Compose and Docker Swarm."
+        ]
+      },
+      {
+        "modulName": "Ocean, Heroku",
+        "modulType": [
+          "Familiarize yourself with cloud computing concepts and the importance of scalable infrastructure for machine learning.",
+          "Sign up for a Paperspace account and get access to the Ocean platform.",
+          "Learn how to create and manage virtual machines (VMs) on Ocean for running machine learning workloads.",
+          "Understand Heroku's scaling options and how to handle application traffic."
+        ]
+      },
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Real loyiha berish",
+          "Real loyiha g'oliblarini rag'bantlantirsh",
+          "Ishga kirish ko'magi",
+          "Road Map For Future"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Full Stack (MERN)",
+    "slogan": "fullstack-mern",
+    "type": "code",
+    "delay": "1y",
+    "discreption": "JavaScript dasturlash tili yordamida, Frontend va Backendni mukammal web dasturlar yaratishni o'rganasiz. Malakali ustozlar tomonidan o'tiladigan darslar, sizni 0 dan junior dasturchi darajasigacha olib chiqadi.",
+    "modul": [
+      {
+        "modulName": "HTML",
+        "modulType": [
+          "Introduction",
+          "Document Structure",
+          "HTML Tags va Elements",
+          "Basics",
+          "Semantic HTML",
+          "Basic Web Page yaratish"
+        ]
+      },
+      {
+        "modulName": "CSS",
+        "modulType": [
+          "Introduction to CSS",
+          "Syntax and Selectors",
+          "Layout and Positioning",
+          "Box Model",
+          "Typography and Colors",
+          "Responsive Design and Media Queries",
+          "Transitions and Animations",
+          "Portfolio Loyiha",
+          "Real project"
+        ]
+      },
+
+      {
+        "modulName": "Bootstrap",
+        "modulType": [
+          "Introduction to Bootstrap",
+          "Setting Up Bootstrap",
+          "Responsive Layout with the Grid System",
+          " Styling with Bootstrap CSS Classes",
+          "Bootstrap Components",
+          "Advanced Bootstrap Features",
+          "Advanced Bootstrap Project"
+        ]
+      },
+      {
+        "modulName": "JavaScript",
+        "modulType": [
+          "Introduction to JavaScript",
+          "JavaScript Basics",
+          "Fundamentals",
+          "Variables",
+          "Data types",
+          "Interaction (alert, prompt, confirm)",
+          "Operators",
+          "Comparisons",
+          "If else / ? :",
+          "Logical operators",
+          "Loops (while and for)",
+          "Switch / case",
+          " Working with Functions",
+          "Arrays and Objects",
+          "DOM manipulation",
+          "Handling Events",
+          "Error Handling and Debugging",
+          "AJAX and Fetch",
+          "OOP",
+          "Real Loyiha"
+        ]
+      },
+      {
+        "modulName": "Git, Github",
+        "modulType": [
+          "Introduction to Version Control",
+          "Installing and Configuring Git",
+          "Git Basics",
+          "Remote Repositories and GitHub",
+          "Collaborating with Others",
+          "Branching Strategies and Workflows",
+          "Git Best Practices",
+          "GitHub Workflow Automation and Integrations"
+        ]
+      },
+      {
+        "modulName": "Sass/SCSS",
+        "modulType": [
+          "Introduction to Sass/SCSS",
+          "Nesting and Selectors",
+          "Setting Up Sass/SCSS",
+          "Mixins and Functions",
+          "Control Directives",
+          "Importing and Partials",
+          "Inheritance and Placeholder Selectors",
+          "Operators and Calculations",
+          "Real project"
+        ]
+      },
+      {
+        "modulName": "React Js",
+        "modulType": [
+          "Introduction to React",
+          "Package Manager",
+          "React Components",
+          "JSX Syntax",
+          "State and Props",
+          "Handling Events",
+          "Lifecycle",
+          "Working with Lists and Keys",
+          "React Router",
+          "Redux / Redux Toolkit",
+          "State Management with Redux (Optional)",
+          "Real Project"
+        ]
+      },
+      {
+        "modulName": "Advanced React Concepts",
+        "modulType": [
+          "React Router for navigation",
+          "Forms and form validation in React",
+          "Handling asynchronous operations with Axios",
+          "State management with Redux or Context API"
+        ]
+      },
+      {
+        "modulName": "Node Js",
+        "modulType": [
+          "Introduction to Node.js",
+          "Node.js Fundamentals",
+          "Using npm (Node Package Manager) to manage dependencies.",
+          "Working with modules and require statements.",
+          "Defining routes to handle HTTP methods and URL patterns",
+          "Building a RESTful API"
+        ]
+      },
+
+      {
+        "modulName": "ExpressJs",
+        "modulType": [
+          "Setting Up Express.js",
+          "Routing",
+          "Middleware",
+          "Request and Response",
+          "Bootstrap Components",
+          "Templating Engines",
+          "Error Handling",
+          "Middleware Libraries",
+          "File Uploads",
+          "Testing and Debugging",
+          "Working with Databases"
+        ]
+      },
+      {
+        "modulName": "Databases",
+        "modulType": [
+          "Introduction Databases",
+          "Implementing CRUD operations using Express.js and the chosen database.",
+          "MongoDb",
+          "Comparing MongoDB with traditional SQL databases.",
+          "Aggregation Framework",
+          "Connecting MongoDB with Node.js using the official MongoDB driver or an ORM like Mongoose.",
+          "Creating, reading, updating, and deleting documents",
+          "Deployment and Scalability",
+          "Real Loyiha"
+        ]
+      },
+      {
+        "modulName": "Building Full-Stack Applications with MERN",
+        "modulType": [
+          "Optimizing and Testing React Applications",
+          "Deploying MERN Applications",
+          "Advanced Backend Topics",
+          "Security and Best Practices",
+          "Final Project and Portfolio Development"
+        ]
+      },
+
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Real loyiha berish",
+          "Real loyiha g'oliblarini rag'bantlantirsh",
+          "Ishga kirish ko'magi",
+          "Road Map For Future"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Full Stack (Python)",
+    "slogan": "fullstack-python",
+    "type": "code",
+    "delay": "6m",
+    "discreption": "Python dasturlash tili va Django freymvorki yordamida web ilovalarning Frontend va Backend qismini ishlab chiqshga qaratilgan kurs",
+    "modul": [
+      {
+        "modulName": "1-Modul (Python)",
+        "modulType": [
+          "Introduction to Python programming language",
+          "Document Structure",
+
+          "Variables, Comments, Data Types",
+          "Numbers, Casting, Strings, Booleans",
+          "Operators",
+          "Lists, Tuples, Sets",
+          "Dictionaries",
+          "If...Else",
+          "For Loops, While Loops",
+          "Functions",
+          "Lambda",
+          "Arrays",
+          "Classes/Objects",
+          "Inheritance, Iterators, Polymorphism",
+          "Scope, Modules, Dates, Math",
+
+          "JSON",
+          "RegEx",
+          "PIP",
+          "Try...Except",
+          "Best Practices"
+        ]
+      },
+      {
+        "modulName": "2-Modul (Front-End)",
+        "modulType": [
+          "Advanced HTML and CSS techniques",
+          "Introduction to front-end frameworks (e.g., Bootstrap, React, Angular)",
+          "Asynchronous programming with JavaScript (AJAX, Fetch API)",
+          "Single-page applications (SPA) and client-side routing"
+        ]
+      },
+
+      {
+        "modulName": "3-Modul (Django)",
+        "modulType": [
+          "Introduction to web frameworks and Django",
+          "Creating a basic Django project and application",
+          "Exploring Django's built-in admin interface",
+          "Customizing the Django admin site",
+          "User authentication and authorization",
+          "User registration and login functionality",
+          "Implementing password reset and change functionality",
+          "Understanding Django forms and their role in handling user input",
+          "Creating custom forms with Django's form classes",
+          "Form validation and error handling",
+          "File uploads and handling form data",
+          "Cross-site Scripting (XSS) protection and security considerations",
+          "RESTful API development with Django's views and serializers",
+          "Handling HTTP requests and responses",
+          "Database integration with SQLite or PostgreSQL ",
+          "User authentication and session management",
+          "RESTful API development",
+          "Advanced database concepts and ORM (Object-Relational Mapping)",
+          "Handling file uploads and data storage",
+          "Caching and performance optimization techniques",
+          "Deploying applications to production servers          ",
+          "Consuming RESTful APIs with Python",
+          "Continuous integration and deployment (CI/CD) pipelines",
+          "Introduction to containerization (Docker) and cloud platforms (e.g., AWS, Azure)"
+        ]
+      },
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Real loyiha berish",
+          "Real loyiha g'oliblarini rag'bantlantirsh",
+          "Ishga kirish ko'magi",
+          "Road Map For Future"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Smm, Grafik Dizayn",
+    "slogan": "smm",
+    "type": "design",
+    "delay": "3m",
+    "discreption": "SMM dizaynerlik kasbini 0 dan boshlamoqchi bo’lganlar va dizayn sohasiga qiziquvchilar uchun maxsus kurs hisoblanadi.",
+    "modul": [
+      {
+        "modulName": " 1-MODUL",
+        "modulType": [
+          "Kompyuter grafikasi",
+          "Kompyuter grafikasi turlari",
+
+          "Grafik formatlar",
+          "Ekran imkoniyati va rang modellari",
+          "Ekran imkoniyati",
+          "Rang modellari",
+          "Adobe Photoshop rasm tahrirlagichi haqida",
+          "Adobe Photoshop dasturi, ish oynasi va asosiy tushunchalar",
+
+          "Adobe Photoshop dasturi haqida ma‟lumot",
+          "Dastur menyu bo‟limlari haqida",
+          "Uskunalar paneli haqida",
+          "Tasvir o‟lchami",
+          "Adobe Photoshop dasturida Navigator darchasi bilan ishlash",
+          "Adobe Photoshopning asosiy tushuncha va iboralari",
+          "Adobe Photoshopda tasvir rang modelini o’zgartirish",
+          "Adobe Photoshopda tasvir o’lchamini o’zgartirish",
+          "Adobe Photoshopda tasvirda turli shakillardan foydalanish",
+          "Adobe Photoshop dasturida tasvirda soha (oblast – marquee) ajratish usullari",
+
+          "LASSO (“Arqonli sirtmoq”) yordamida soha ajratish",
+          "“Sehrli tayoqcha” (Volshebnaya palochka- Magic Wand) yordamida soha ajratish",
+          "“Xarakatlanuvchi” (Peremehenie- Move) yordamida ajratilgan soha ustidan amallar bajarish",
+          "Adobe Photoshop dasturning Videlenie (Select) menyusidan foydalanish",
+          "Adobe Photoshop dasturning Filtr menyusining Vichitanie (Extract) buyrugi yordamida soha ajratish"
+        ]
+      },
+      {
+        "modulName": " 2-MODUL",
+        "modulType": [
+          "Adobe Photoshopda qatlamlar bilan ishlash",
+          "Adobe Photoshopda bajarilgan amallar bilan ishlash",
+          "Adobe Photoshopda oq-qora rasmlar bilan ishlash",
+          "Rasm ustidan shakllar yaratish",
+          "Adobe Photoshopda yangi bo’yash cho’tkasi yaratish",
+          "Adobe Photoshopda matn bilan ishlash",
+          "Matn ko`rinishi va shrift o`lchamini tanlash",
+          "Matnni tahrirlash. Matn qatlami bilan ishlash",
+          "Ko’zdagi qizil dog’ni yo’qotish",
+          "Adobe Photoshopda filtrlardan foydalanish",
+          "Adobe Photoshopdagi amallarni klavshalar orqali tezkor bajarish",
+          "Qaynoq klavishalar",
+          "Qaynoq klavishalar: Hujjat fayli bilan ishlash",
+          "Qaynoq klavishalar: Uskunalar bilan ishlash",
+          "Qaynoq klavishalar: Qatlamlar bilan ishlash",
+          "Qaynoq klavishalar: Klavisha orqali ko‟p bajariladigan amallar"
+        ]
+      },
+
+      {
+        "modulName": "Yakuniy Modul",
+        "modulType": [
+          "Imtihon",
+          "Taqdirilash",
+          "Real loyiha berish",
+          "Real loyiha g'oliblarini rag'bantlantirsh",
+          "Ishga kirish ko'magi",
+          "Road Map For Future"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "IELTS",
+    "slogan": "ielts",
+    "type": "english",
+    "delay": "4m",
+    "discreption": "Hozirgi ingliz tili darajangizga qarab uchta asosiy IELTS kursi mavjud: IELTS Foundation ​​- bu o’rta darajadan past va tayyorgarlik ko’rish uchun vaqti kam bo’lganlar uchun 3 oylik kurs. Ushbu qisqa intensiv kursdan so’ng talabalar o’rtacha 5,5-6,0 balli ko’rsatkichni olishlari mumkin. IELTS Standard – kuchli o’rta darajaga ega bo’lganlar uchun 4 oylik kurs. Odatda IELTS Foundation kursini tugatgan talabalar ushbu kursga o’tadilar va o’rtacha 6,5-7,0 ballarni olishadi. IELTS Advanced – yuqori darajaga ega bo’lganlar yoki oldin IELTS imtihonini topshirgan, lekin undan yuqori ball olishni istaganlar uchun 2 oylik kurs. Kursni tugatgandan so’ng talabalar 7.0+ balli ko’rsatkichga erishishi mumkin.",
+    "modul": []
+  },
+  {
+    "name": "SAT ",
+    "slogan": "sat",
+    "type": "english",
+    "delay": "3m",
+    "discreption": "SAT-Scholastic Aptitude Test. Xorijda tahsil olishni istovchi talabalikka talabgorlar albatta bu testni topshirishlari shart. Ayniqsa, ushbu imtihon turi AQSH va Kanadada juda ommabop. SAT uchun talab qilinadigan ingliz tilini egallaganlik darajasi Yevropa shkalasiga koʻra B2 (Upper-Intermediate) va C1",
+    "modul": [
+      {
+        "modulName": "SAT MATH",
+        "modulType": [
+          "Intruduction",
+          "Foundations: Algebra",
+          "Foundations: Problem solving and data analysis",
+          "Foundations: Advanced math ",
+          "Foundations: Geometry and trigonometry "
+        ]
+      },
+      {
+        "modulName": "SAT Reading and Writing",
+        "modulType": [
+          "Vocabulary ",
+          "Command Evidence: Textual",
+          "Command Evidence: Quantative",
+          "Central Ideas ",
+          "Inferences ",
+          "Words in context",
+          "Text Structure and Purpose",
+          "Cross-Text Connections ",
+          "Transitions ",
+          "Rhetorical Synthesis",
+          "Form, Structure, and Sense",
+          "Boundaries"
+        ]
+      },
+      {
+        "modulName": "Final Module",
+        "modulType": ["Exam", "Graduation certificate", "Road Map For Future"]
+      }
+    ]
+  },
+  {
+    "name": "IT ENGLISH",
+    "slogan": "it-english",
+    "type": "english",
+    "delay": "2m",
+    "discreption": "Kurs mobaynida IT sohasiga aloqador barcha so'zlashuv uslubi va so'zlashish qobiliyati oshib boradi. Kursimizda eng asosiysi It sohasiga ishga kirish uchun ya'ni intervyuga tayyorlaniladi",
+    "modul": [
+      {
+        "modulName": "It English",
+        "modulType": ["", "", ""]
+      }
+    ]
+  }
+]
